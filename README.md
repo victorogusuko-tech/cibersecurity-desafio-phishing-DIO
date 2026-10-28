@@ -26,12 +26,4 @@ Obtendo o endereço da máquina: ifconfig
 URL para clone: http://testaspnet.vulnweb.com/login.aspx
 
 
-Mitigação e Defesa
-Para se proteger contra ataques de phishing semelhantes, as seguintes práticas são recomendadas:
-Autenticação Multifator (MFA): Exigir uma segunda forma de verificação torna credenciais vazadas insuficientes para o acesso.
-Verificação de Domínio: Sempre validar se a URL no navegador corresponde ao domínio oficial do serviço.
-Gerenciadores de Senha: Estas ferramentas geralmente não preenchem senhas automaticamente se o domínio da página não corresponder ao registro salvo.
-Treinamento de Conscientização: Educar usuários para identificar urgências falsas e e-mails suspeitos (spear phishing).
-
-
 <img width="940" height="604" alt="Screen Shot 2026-10-28 at 20 38 28" src="https://github.com/user-attachments/assets/c69cd1f0-b055-49c0-9df5-813a8ffe71fa" />
