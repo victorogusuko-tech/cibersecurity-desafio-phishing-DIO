@@ -15,8 +15,16 @@ Estrutura do Ataque (Conceitual)
 Preparação do Ambiente: Configuração da rede e inicialização do setoolkit.
 Seleção do Vetor: Escolha do módulo de engenharia social focado em vetores web (Web Site Attack Vectors).
 
-Método de Clonagem: Utilização do método de clonagem de sites para espelhar a página de login de um serviço alvo (ex: Facebook).
-Captura: Simulação da inserção de credenciais pela vítima, demonstrando como os dados em texto claro (ou hashes) são interceptados pelo servidor local do atacante.
+Configurando o Phishing no Kali Linux
+
+Acesso root: sudo su
+Iniciando o setoolkit: setoolkit
+Tipo de ataque: Social-Engineering Attacks
+Vetor de ataque: Web Site Attack Vectors
+Método de ataque: Credential Harvester Attack Method 
+Método de ataque: Site Cloner
+Obtendo o endereço da máquina: ifconfig
+URL para clone: http://www.instagram.com
 
 
 Mitigação e Defesa
@@ -25,3 +33,6 @@ Autenticação Multifator (MFA): Exigir uma segunda forma de verificação torna
 Verificação de Domínio: Sempre validar se a URL no navegador corresponde ao domínio oficial do serviço.
 Gerenciadores de Senha: Estas ferramentas geralmente não preenchem senhas automaticamente se o domínio da página não corresponder ao registro salvo.
 Treinamento de Conscientização: Educar usuários para identificar urgências falsas e e-mails suspeitos (spear phishing).
+
+
+<img width="940" height="604" alt="Screen Shot 2026-10-28 at 20 38 28" src="https://github.com/user-attachments/assets/c69cd1f0-b055-49c0-9df5-813a8ffe71fa" />
